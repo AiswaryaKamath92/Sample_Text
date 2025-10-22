@@ -1,0 +1,5 @@
+git commands
+--------------
+
+git initgit 
+git add -A 
