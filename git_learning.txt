@@ -3,3 +3,6 @@ git commands
 
 git initgit 
 git add -A 
+git commit -m "messsage"
+git remotegit 
+git push
